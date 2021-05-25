@@ -51,7 +51,7 @@ body {
     text-align: center;
 }
 
-.p-images {
+.p-img {
     position: relative;
     width: 300px;
     height: 100%;
@@ -62,11 +62,11 @@ body {
     margin-right: -25px;
 }
 
-.p2-images {
+.p2-img {
     background-image: url('../images/product2.png');
 }
 
-.p3-images {
+.p3-img {
     background-image: url('../images/product3.png');
 }
 
@@ -111,7 +111,7 @@ body {
         height: 300px;
     }
 
-    .p-images {
+    .p-img {
         width: 200px;
     }
 
@@ -133,7 +133,7 @@ body {
         margin-top: 60px;
     }
 
-    .p-images {
+    .p-img {
         width: 200px;
         border-radius: 50px;
     }

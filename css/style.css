@@ -51,13 +51,13 @@ body {
     left: 20px;
 }
 
-.logo images {
+.logo img {
     width: 8vw;
     height: auto;
 }
 
 
-#images__wrapper-1 {
+#img__wrapper-1 {
     height: 100%;
     width: 100%;
     display: flex;
@@ -65,7 +65,7 @@ body {
     align-items: center;
 }
 
-#images__wrapper-1 images {
+#img__wrapper-1 img {
     display: block;
     width: 20vw;
     height: auto;
